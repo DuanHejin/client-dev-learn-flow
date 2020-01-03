@@ -1,6 +1,7 @@
 # client-dev-learn-flow
 This project is set to show the client learning flow to people new to client side development.
 
+
 ##  learning flow
 
 ### 基础
@@ -15,7 +16,9 @@ This project is set to show the client learning flow to people new to client sid
 2. webpack
 3. nodejs
 
----
+
+## 技术栈
+
 ### html
 1. 发展历史
 2. html4语法
@@ -45,8 +48,8 @@ This project is set to show the client learning flow to people new to client sid
 3. 官网学习
 
 
----
 ## 参考网址
+
 ### 慕课网
 - [初识HTML+CSS](https://www.imooc.com/learn/9)
 - [Chrome DevTools开发者工具调试指南](https://www.imooc.com/learn/1164)
